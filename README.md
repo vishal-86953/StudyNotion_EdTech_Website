@@ -3,5 +3,5 @@
 - User profiles can be managed, passwords reset, and payments handled via Razorpay integration.
 - Developed using Postman API, MongoDB, Node.js, Express.js, HTML, CSS, Javascript, Tailwind CSS, React.js
 
-Website link: 
+Website link: https://studynotion-frontend-pearl.vercel.app/
   
